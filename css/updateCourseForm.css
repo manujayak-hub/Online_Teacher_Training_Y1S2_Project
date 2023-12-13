@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    border-width: 10px;
+    border-color: black;
+    background-image:url("../image/chethakaBackground.jpeg");
+      background-repeat:no-repeat;
+    background-size:cover;
+    
+    margin:0;
+  }
+  .editCourseForm input
+     {
+      width: 30%;
+      padding: 8px;
+      margin: 20px;
+      
+    }
+    #submitBtn {
+        width: 20%;
+        padding: 10px;
+        background-color: #4267B2;
+        color: #fff;
+        border: none;
+        border-radius: 17px;
+        cursor: pointer;
+        margin-top: 3%;
+      }
+      fieldset{
+        background-color:white;
+      }

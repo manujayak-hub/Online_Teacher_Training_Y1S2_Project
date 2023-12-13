@@ -1,0 +1,72 @@
+
+    body {
+      font-family: Arial, sans-serif;
+      border-width: 10px;
+      border-color: black;
+      background-image:url("../image/background.jpg");
+	    background-repeat:no-repeat;
+      background-size:cover;
+      background-color:white; 
+      margin:0;
+    }
+    p{
+      font-size: 12px;
+    }
+    .container {
+      max-width: 400px;
+      margin: 0 auto;
+      padding: 20px;
+      
+    }
+    
+    .form-group {
+      margin-bottom: 15px;
+    }
+    
+    .form-group input,
+    .form-group select {
+      width: 30%;
+      padding: 8px;
+      border: 1px solid #ccc;
+      border-radius: 4px;
+    }
+    
+    
+    
+    .radio-label {
+      display: inline-block;
+      margin-right: 20px;
+      font-weight: normal;
+      font-size: 10px;
+      margin-left: 0;
+      
+    }
+     
+    #email{
+      width: 50%;
+    }
+    #submitBtn {
+  width: 30%;
+  padding: 10px;
+  background-color: #4267B2;
+  color: #fff;
+  border: none;
+  border-radius: 17px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #395693;
+}
+.radio{
+  margin-bottom: 10px;
+  margin-right: 10px;
+}
+fieldset{
+  background-color:white;
+}
+
+
+
+
+

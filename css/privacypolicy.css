@@ -1,0 +1,54 @@
+
+#photo{
+  height: 200px;
+  width: 100%;
+  opacity: 0.9;
+}
+.para{
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  font-size: 25px;
+}
+.maintopic {
+  position:absolute;
+  top: 17%;
+  left: 37%;
+  font-size: 80px;
+  font-weight: 1000;
+  font-family:'Times New Roman', Times, serif;
+  color:rgb(242, 239, 239);
+  -webkit-text-stroke: 1px black; 
+  
+}
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-image:url("../image/chethakaBackground.jpeg") ;
+  background-repeat:no-repeat ;
+  background-size:cover;
+}
+
+.container {
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  margin-top: 30px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,87 @@
+.main{
+	display: flexbox;
+    justify-content:space-between;
+    align-items: center;
+    height : 600px;
+    
+    
+}
+.header{
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.main{
+background-color:#DDE6ED;
+margin :10px;
+
+}
+.proDec1{
+float:left;
+
+}
+#proimage{
+
+border-radius : 50%;
+margin:50px;
+padding:10px;
+}
+#username{
+
+text-align: center;
+border-style: solid;
+border-color : #27374D;
+color: #cccccc;
+background-color: #27374D;
+margin-top:100px;
+width: 900px;
+padding:10px;
+}
+.toolBar{
+    display:grid;
+    justify-content: center;
+    align-items: center;
+    clear : both;
+}
+#TB{
+text-decoration: none;
+color : black;
+float :left;
+
+}
+.toolBar1,.toolBar2, .toolBar3,.toolBar4,.toolBar5,.toolBar6,.toolBar7{
+border: 1px solid #9DB2BF;
+background-color: #9DB2BF;
+margin-top:10px;
+
+}
+.toolBar1{
+padding-right: 1011px;
+padding-left: 100px;
+}
+.toolBar2{
+padding-right:1040px;
+padding-left: 100px;
+}
+.toolBar3{
+padding-right:1036px;
+padding-left: 100px;
+}
+.toolBar4{
+padding-right:1002px;
+padding-left: 100px;
+}
+.toolBar5{
+padding-right:959px;
+padding-left: 100px;
+}
+.toolBar6{
+padding-right:1010px;
+padding-left: 100px;
+}
+.toolBar7{
+padding-right:986px;
+padding-left: 100px;
+}
+
+

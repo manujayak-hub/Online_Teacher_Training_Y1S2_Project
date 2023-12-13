@@ -1,0 +1,86 @@
+body{
+  
+	    background-repeat:no-repeat;
+      background-size:cover;
+      
+      /*margin:0;*/
+}
+#upTable{
+  border:1px solid black ;
+  border-collapse: collapse;
+  padding-bottom: 5%;
+  margin-bottom: 1%;
+  }
+
+
+  .detailBar, table{
+    width:100%;
+  }
+  #entrollBtn{
+    padding: 5%;
+    border-radius: 15px;
+    margin: auto;
+    width:70%;
+    color: white;
+    background-color: #0066CC;
+    
+  }
+  #entrollBtn:hover{
+    background-color:#073d74;
+  }
+  #teacherPhoto{
+    width: 80%;
+    margin-left: 10%;
+  }
+  
+  .downtable ,#recordings{
+    width: 30%;
+    right: 30%;
+    position:absolute;
+    border: 1px solid black;
+   bottom: 31%;
+   
+  }
+  .downtable ,#recordings2{
+    width: 30%;
+    right: 30%;
+    position:absolute;
+    border: 1px solid black;
+   bottom: 18%;
+   
+  }
+  .downtable ,#recordings3{
+    width: 30%;
+    right: 30%;
+    position:absolute;
+    border: 1px solid black;
+   bottom: 5%;
+   
+  }
+  .downtable,#downTable{
+    border: 1px solid white;
+  }
+  
+  select{
+    height: 35px;
+  }
+  #teacherName{
+    font-size: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: black;
+  }
+  #courseName{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    
+  }
+  
+  
+  /* #entrollBtn{
+    margin: 0 auto;
+    text-align: center;     
+    height: 50px;
+    padding-top: 10px;
+    line-height: 22px;}
+  /*
+  

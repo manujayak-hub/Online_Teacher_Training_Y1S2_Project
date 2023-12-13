@@ -1,0 +1,184 @@
+@charset "utf-8";
+/* CSS Document */
+
+.header {
+  background-color: #0066CC;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
+
+.logo img {
+  width: 50px;
+  margin-right: 10px;
+}
+
+.website-title {
+  color: #fff;
+  font-size: 35px;
+  margin: 0;
+}
+
+.menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+}
+
+.menu li {
+    margin-right: 20px;
+}
+
+.menu li:first-child {
+    margin-left: 0;
+}
+
+.menu li:last-child {
+    margin-right: 0;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #fff;
+    padding: 5px;
+}
+
+.menu2 {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.menu2 li {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.menu2 li:last-child {
+    margin-right: 0;
+}
+
+.menu-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ .hero {
+      background-color: #f1f1f1;
+      padding: 60px;
+      display: flex;
+      align-items: flex-start;
+    }
+
+
+    .usernamelogged {
+      text-align: right;
+      font-size: 20px;
+      color: white;
+      margin-right: 20px;
+      margin-top:2%;
+    }
+
+    .logout-btn {
+      margin-top: 0px;
+      
+    }
+    
+
+
+
+
+table {
+    border-collapse: collapse;
+    
+    margin: 10px auto;
+
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+th, td {
+    padding: 10px;
+}
+
+button {
+    padding: 5px 10px;
+    background-color: #0066CC;
+    color: white;
+    border: none;
+    cursor: pointer;
+    margin-right: 5px;
+}
+
+button:hover {
+    background-color: #0056A3;
+}    
+ 
+
+
+
+
+
+.footer {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  margin-top: 100px;
+}
+
+.footer-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer-logo img {
+  margin-right:20px;
+  width: 40px;
+  height: 40px;
+}
+
+.footer-links ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-links ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.footer-links ul li a {
+  text-decoration: none;
+  color: #fff;
+}
+
+.footer-bottom {
+  background-color: #222;
+  padding: 10px 0;
+  text-align: center;
+  margin-top: 10px;
+}
+
+.footer-bottom p {
+  margin: 0;
+  font-size: 14px;
+}
+
+
+
+
